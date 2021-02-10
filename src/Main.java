@@ -8,4 +8,10 @@ public class Main
 			System.out.println("hello world");
 		}
 	}
+
+
+	public static void cringe()
+	{
+		System.out.println("cringe");
+	}
 }
